@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #037
+}
+#main{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #fff;
+    border-radius: 4px;
+    width: 50%;
+    height: 40%;
+}
+#record{
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    background-color: #182;
+    width: 40%;
+    height: 35%;
+    font-size: 50px;
+    color: white;
+}
+#title{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: white;
+}
+#container{
+    background-color:white;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #fff;
+    border-radius: 4px;
+    width: 50%;
+    height: 40%;
+    font-size: 50px;
+}
